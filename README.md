@@ -50,8 +50,8 @@ Se
 
 # Uso
 
-1. Corre la aplicacion con el comando 'npm start'
-2. Abre tu navegador y ve a la direccion http://localhost:3000/
+1. Corre la aplicacion con el comando 'npm run dev'
+2. Abre tu navegador y ve a la direccion http://localhost:5173/
 3. Ingresa tu nombre y haz click en iniciar el juego (Primera vez).
 4. Juega volteando las cartas e intentando encontrar la carta identica entre que estan aun tapadas.
 5. Al destapar todas las parejas, habra un mensaje de felicitaciones.
